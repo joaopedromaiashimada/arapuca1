@@ -201,8 +201,8 @@ function Home({ setPage }) {
         <div className="showcaseTitle"><h2>🔥 Mais pedidos do Arapuca</h2><span></span></div>
         <div className="showcaseCards">
           <div className="showCard"><b>Nº 1</b><img src={cuscuzImg} alt="Cuscuz Peixe e Camarão" /><h3>Cuscuz Peixe e Camarão</h3><p>Nosso carro-chefe! O melhor cuscuz da região.</p></div>
-          <div className="showCard"><b>Nº 2</b><img src="https://images.unsplash.com/photo-1632778149955-e80f8ceca2e8?auto=format&fit=crop&w=900&q=80" alt="Pintado à Parmegiana" /><h3>Pintado à Parmegiana</h3><p>Filé de pintado empanado com molho especial e queijo derretido.</p></div>
-          <div className="showCard"><b>Nº 3</b><img src="https://images.unsplash.com/photo-1559847844-5315695dadae?auto=format&fit=crop&w=900&q=80" alt="Peixe no Tambor" /><h3>Peixe no Tambor</h3><p>Peixe assado na brasa com tempero especial.</p></div>
+          <div className="showCard"><b>Nº 2</b><img src="public/images/parmegiana.png" alt="Filet Mignon à parmegiana " /><h3>Filet Mignon à Parmegiana</h3><p>Filet Mignon empanado com molho especial e queijo derretido.</p></div>
+          <div className="showCard"><b>Nº 3</b><img src="public/images/peixeassado.png" alt="Peixe no Tambor" /><h3>Peixe Assado no Tambor</h3><p>Peixe assado na brasa com tempero especial.</p></div>
         </div>
       </div>
       <div className="showcaseAside">
