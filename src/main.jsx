@@ -201,7 +201,7 @@ function Home({ setPage }) {
         <div className="showcaseTitle"><h2>🔥 Mais pedidos do Arapuca</h2><span></span></div>
         <div className="showcaseCards">
           <div className="showCard"><b>Nº 1</b><img src={cuscuzImg} alt="Cuscuz Peixe e Camarão" /><h3>Cuscuz Peixe e Camarão</h3><p>Nosso carro-chefe! O melhor cuscuz da região.</p></div>
-          <div className="showCard"><b>Nº 2</b><img src="/images/parmegiana.png" alt="Filet Mignon à parmegiana " /><h3>Filet Mignon à Parmegiana</h3><p>Filet Mignon empanado com molho especial e queijo derretido.</p></div>
+          <div className="showCard"><b>Nº 2</b><img src="/images/Parmegiana.png" alt="Filet Mignon à parmegiana " /><h3>Filet Mignon à Parmegiana</h3><p>Filet Mignon empanado com molho especial e queijo derretido.</p></div>
           <div className="showCard"><b>Nº 3</b><img src="/images/peixeassado.png" alt="Peixe no Tambor" /><h3>Peixe Assado no Tambor</h3><p>Peixe assado na brasa com tempero especial.</p></div>
         </div>
       </div>
